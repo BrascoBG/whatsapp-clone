@@ -4,4 +4,6 @@
 
 ## Screenshots
 
-...
+![login](https://github.com/BrascoBG/whatsapp-clone/blob/master/src/assets/login.jpg?raw=true)
+
+![chat](https://github.com/BrascoBG/whatsapp-clone/blob/master/src/assets/chat.jpg?raw=true)
